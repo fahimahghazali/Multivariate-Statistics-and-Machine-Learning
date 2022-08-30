@@ -6,7 +6,7 @@ Based on the data provided, the report deals with simplifying the dataset for fu
 #### -- Project Status: [Completed]
 
 ### Methods used
-- Descriptive statistics
+- Multivariate statistics
 - _K_-means clustering
 - Sum of squares(SS) analysis
 
